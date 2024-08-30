@@ -1,0 +1,14 @@
+c:\Users\john.dous\OneDrive - Academedia\Documents\prg\Lucktext\Lucktext\bin\Debug\net8.0\Lucktext.exe
+c:\Users\john.dous\OneDrive - Academedia\Documents\prg\Lucktext\Lucktext\bin\Debug\net8.0\Lucktext.deps.json
+c:\Users\john.dous\OneDrive - Academedia\Documents\prg\Lucktext\Lucktext\bin\Debug\net8.0\Lucktext.runtimeconfig.json
+c:\Users\john.dous\OneDrive - Academedia\Documents\prg\Lucktext\Lucktext\bin\Debug\net8.0\Lucktext.dll
+c:\Users\john.dous\OneDrive - Academedia\Documents\prg\Lucktext\Lucktext\bin\Debug\net8.0\Lucktext.pdb
+c:\Users\john.dous\OneDrive - Academedia\Documents\prg\Lucktext\Lucktext\obj\Debug\net8.0\Lucktext.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\john.dous\OneDrive - Academedia\Documents\prg\Lucktext\Lucktext\obj\Debug\net8.0\Lucktext.AssemblyInfoInputs.cache
+c:\Users\john.dous\OneDrive - Academedia\Documents\prg\Lucktext\Lucktext\obj\Debug\net8.0\Lucktext.AssemblyInfo.cs
+c:\Users\john.dous\OneDrive - Academedia\Documents\prg\Lucktext\Lucktext\obj\Debug\net8.0\Lucktext.csproj.CoreCompileInputs.cache
+c:\Users\john.dous\OneDrive - Academedia\Documents\prg\Lucktext\Lucktext\obj\Debug\net8.0\Lucktext.dll
+c:\Users\john.dous\OneDrive - Academedia\Documents\prg\Lucktext\Lucktext\obj\Debug\net8.0\refint\Lucktext.dll
+c:\Users\john.dous\OneDrive - Academedia\Documents\prg\Lucktext\Lucktext\obj\Debug\net8.0\Lucktext.pdb
+c:\Users\john.dous\OneDrive - Academedia\Documents\prg\Lucktext\Lucktext\obj\Debug\net8.0\Lucktext.genruntimeconfig.cache
+c:\Users\john.dous\OneDrive - Academedia\Documents\prg\Lucktext\Lucktext\obj\Debug\net8.0\ref\Lucktext.dll
